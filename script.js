@@ -78,7 +78,7 @@ function applyPixelation() {
         canvas.width = tempImg.naturalWidth;
         canvas.height = tempImg.naturalHeight;
         
-        const blockSize = gameState.pixelation * 3;
+        const blockSize = gameState.pixelation * 6;
         const smallWidth = Math.max(1, Math.floor(canvas.width / blockSize));
         const smallHeight = Math.max(1, Math.floor(canvas.height / blockSize));
         
