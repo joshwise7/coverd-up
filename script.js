@@ -13,31 +13,31 @@ const gameState = {
         {
             title: "The Secret To Life",
             artist: "FIZZ",
-            cover: "https://i.discogs.com/_qLKYtqkmhG7w2oqn6-L7gwJRKz5fInHEowfeizCZAo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzIz/MDY5LTE2OTg0NDA0/MDEtNTIzMC5qcGVn.jpeg",
+            cover: "https://m.media-amazon.com/images/I/81Qg71I8pAL.jpg",
             guesses: 0,
         },
         {
             title: "Tetsuo & Youth",
             artist: "Lupe Fiasco",
-            cover: "https://i.discogs.com/Z4Vk3_jvoxUGvp2j9ebEswgHndqYGKSYvh8RCIbBwDQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDc1/NjAtMTU4NzAzNDY3/Mi01ODkwLmpwZWc.jpeg",
+            cover: "https://m.media-amazon.com/images/I/715Maq5-8tL.jpg",
             guesses: 0,
         },
         {
             title: "How Big, How Blue, How Beautiful",
             artist: "Florence + The Machine",
-            cover: "https://i.discogs.com/7OQfQz2Ni6ArWb8GWXXsvt9CIKjGl6KxbYUYi965-jo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjQ4/MjUtMTQzNjcyOTI3/MS03OTY4LmpwZWc.jpeg",
+            cover: "https://m.media-amazon.com/images/I/71Pue1RopYL.jpg",
             guesses: 0,
         },
         {
             title: "The Race for Space",
             artist: "Public Service Broadcasting",
-            cover: "https://i.discogs.com/2nwzQNEDqbmmjw948-RlSt13nstLAKGB8rQg5s-XQh8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzg2/NTktMTQyNDQ1NjY3/Ni0xOTAxLmpwZWc.jpeg",
+            cover: "https://m.media-amazon.com/images/I/81VhrQ9cx9L.jpg",
             guesses: 0,
         },
         {
             title: "five seconds flat",
             artist: "Lizzy McAlpine",
-            cover: "https://i.discogs.com/vMH1HkuoSuxo8TozZRakx5lvA2HPaCNAbN-jYw5F90g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTE4/NTY1LTE2NTAyNDIx/NzctNTA3OC5qcGVn.jpeg",
+            cover: "https://m.media-amazon.com/images/I/51bISG3XAeL.jpg",
             guesses: 0,
         }
     ]
