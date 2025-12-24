@@ -5,33 +5,39 @@ const gameState = {
 
     albums: [
         {
-            title: "The Dark Side of the Moon",
-            artist: "Pink Floyd",
-            cover: "https://miro.medium.com/v2/resize:fit:1400/1*8FkvzbSdSJ4HNxtuZo5kLg.jpeg",
+            title: "Precipice",
+            artist: "Indigo De Souza",
+            cover: "https://i.discogs.com/MelosNc3paeSVDzsbvCNV1yOAOZtuyJJa4CN-aKbL40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjY2/ODAxLTE3NTM4MjU3/MDItMTI4Mi5qcGVn.jpeg",
             guesses: 0,
         },
         {
-            title: "Abbey Road",
-            artist: "The Beatles",
-            cover: "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+            title: "The Secret To Life",
+            artist: "FIZZ",
+            cover: "https://i.discogs.com/_qLKYtqkmhG7w2oqn6-L7gwJRKz5fInHEowfeizCZAo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzIz/MDY5LTE2OTg0NDA0/MDEtNTIzMC5qcGVn.jpeg",
             guesses: 0,
         },
         {
-            title: "Rumours",
-            artist: "Fleetwood Mac",
-            cover: "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+            title: "Tetsuo & Youth",
+            artist: "Lupe Fiasco",
+            cover: "https://i.discogs.com/Z4Vk3_jvoxUGvp2j9ebEswgHndqYGKSYvh8RCIbBwDQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDc1/NjAtMTU4NzAzNDY3/Mi01ODkwLmpwZWc.jpeg",
             guesses: 0,
         },
         {
-            title: "Back in Black",
-            artist: "AC/DC",
-            cover: "https://upload.wikimedia.org/wikipedia/commons/9/92/ACDC_Back_in_Black.png",
+            title: "How Big, How Blue, How Beautiful",
+            artist: "Florence + The Machine",
+            cover: "https://i.discogs.com/7OQfQz2Ni6ArWb8GWXXsvt9CIKjGl6KxbYUYi965-jo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjQ4/MjUtMTQzNjcyOTI3/MS03OTY4LmpwZWc.jpeg",
             guesses: 0,
         },
         {
-            title: "Hotel California",
-            artist: "Eagles",
-            cover: "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg",
+            title: "The Race for Space",
+            artist: "Public Service Broadcasting",
+            cover: "https://i.discogs.com/2nwzQNEDqbmmjw948-RlSt13nstLAKGB8rQg5s-XQh8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzg2/NTktMTQyNDQ1NjY3/Ni0xOTAxLmpwZWc.jpeg",
+            guesses: 0,
+        },
+        {
+            title: "five seconds flat",
+            artist: "Lizzy McAlpine",
+            cover: "https://i.discogs.com/vMH1HkuoSuxo8TozZRakx5lvA2HPaCNAbN-jYw5F90g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTE4/NTY1LTE2NTAyNDIx/NzctNTA3OC5qcGVn.jpeg",
             guesses: 0,
         }
     ]
