@@ -7,7 +7,7 @@ const gameState = {
         {
             title: "Precipice",
             artist: "Indigo De Souza",
-            cover: "https://upload.wikimedia.org/wikipedia/en/2/2b/Precipice_-_Indigo_De_Souza_cover.jpg",
+            cover: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/9d/55/309d55e2-88dd-d948-b551-5987343d5383/25CRGIM48975.rgb.jpg/600x600bb.jpg",
             guesses: 0,
         },
         {
