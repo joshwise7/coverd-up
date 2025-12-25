@@ -108,7 +108,7 @@ function checkGuess() {
         
         if (gameState.guessesLeft <= 0) {
             elements.albumCover.src = gameState.currAlbum.cover;
-            elements.message.textContent = `Game Over! The album was "${gameState.currAlbum.title}" by ${gameState.currAlbum.artist}.`;
+            elements.message.textContent = `Round Over! The album was "${gameState.currAlbum.title}" by ${gameState.currAlbum.artist}. Refresh the page to try again, there are 6 total albums to guess!`;
             elements.submitGuess.disabled = true;
         } else {
             applyPixelation();
