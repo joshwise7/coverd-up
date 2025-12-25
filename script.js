@@ -149,7 +149,7 @@ function initGame() {
         
         updateUI();
     };
-    elements.message.textContent = "Guess the album!";
+    elements.message.textContent = "";
     elements.submitGuess.disabled = false;
 }
 
